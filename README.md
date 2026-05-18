@@ -1,6 +1,6 @@
 ## Roberto Carlos 
 Olá! 👋
-Sou estudante de Ciência da Computação e estou aprendendo sobre programação, análise de dados e desenvolvimento de projetos.
+Sou estudante de Ciência da Computação e estou aprendendo sobre programação, análise de dados e desenvolvimento de projetos, redes, infra, segurança da informação.
 Aqui no GitHub compartilho meus estudos, códigos e projetos que venho desenvolvendo ao longo da minha jornada.
 
 ---
